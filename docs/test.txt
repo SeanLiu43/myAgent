@@ -1,0 +1,4 @@
+Lenovo MCMP是一个多云管理平台，支持华为云、阿里云、AWS等多个云厂商。
+MCMP的核心功能包括：云账户授权、虚拟机配置、CMDB同步、资源编排。
+MCMP基于Spring Cloud微服务架构，使用Eureka做服务发现，RabbitMQ做消息队列。
+部署方式支持Docker容器化部署，使用Flyway做数据库版本管理。
